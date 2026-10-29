@@ -2,6 +2,7 @@ Embeddings are not only semantic.
 
 They also encode:
 
+
 Syntactic patterns (structure, word order)
 
 Contextual usage
